@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @randhasan
-- ⏰ In my free time, I love trying new food, listening to music, hanging out with my friends, and exercising.  I enjoy running as well as swimming.  Another passion of mine is fashion/beauty/marketing as I love keeping up with the newest trends and appreciating creative works of art.  I also believe there's a science within marketing and persuasion which fascinates me.
-- 👀 I’m interested in Discrete Mathematics and coding in Java.  I also have a lot of experience in Python but have recently been doing a lot more projects and studying in Java.
+- ⏰ In my free time, I love trying new food, watching comedy specials and movies, reading books about human nature and psychology, and keeping up to date with the fashion world.
+- 👀 In addition to coding, I am also very fascinated by business and am currently working on adding Finance as a second major.
 - 🌱 I’m currently studying CS at the School of Computing and Information at the University of Pittsburgh.  In addition, I am enrolled in the Frederick Honors College.
 - 📫 To reach me, please shoot me an email at rhasan4@outlook.com.  For more information, you can also check out my LinkedIn at https://www.linkedin.com/in/rand-hasan/
